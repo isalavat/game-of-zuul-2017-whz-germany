@@ -1,0 +1,4 @@
+You're lost in the castle. Find your way out of this castle. You 
+need a key to go to the next room of the castle.
+To get the key you must guess the riddle of a strange 
+creature in the room.

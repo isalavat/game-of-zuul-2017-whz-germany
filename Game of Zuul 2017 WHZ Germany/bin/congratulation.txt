@@ -1,0 +1,4 @@
+Congratulations, you guessed the last 
+riddle and got the key to get out of 
+the castle. Use the key to exit the lock 
+and finish the game.

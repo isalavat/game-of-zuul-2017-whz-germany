@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_151" class="java.beans.XMLDecoder">
+ <object class="de.fh_zwickau.oose.zuul.model.Game" id="Game0">
+  <void id="Player0" property="player">
+   <void property="currentRoom">
+    <void property="visited">
+     <boolean>true</boolean>
+    </void>
+   </void>
+  </void>
+ </object>
+</java>
