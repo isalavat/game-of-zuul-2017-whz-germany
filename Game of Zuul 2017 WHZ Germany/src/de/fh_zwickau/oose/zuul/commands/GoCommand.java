@@ -6,7 +6,7 @@ import de.fh_zwickau.oose.zuul.model.Player;
  * Implementation of the 'go' user command.
  *
  * @author Michael Kolling
- * @version 1.0 (December 2002)
+ * @extended_by Erlan Moldaliev and Salavat Islamov
  */
 public class GoCommand extends Command
 {

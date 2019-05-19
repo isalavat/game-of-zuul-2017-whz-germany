@@ -10,7 +10,7 @@ import java.util.Iterator;
  * It is used to recognise commands as they are typed in.
  *
  * @author  Michael Kolling and David J. Barnes
- * @version 2.0 (December 2002)
+ * @extended_by Erlan Modlaliev and Salavat Islamov
  */
 
 public class CommandWords

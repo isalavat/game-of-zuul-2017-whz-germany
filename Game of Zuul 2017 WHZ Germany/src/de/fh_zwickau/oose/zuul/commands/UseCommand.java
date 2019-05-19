@@ -3,6 +3,7 @@ package de.fh_zwickau.oose.zuul.commands;
 import de.fh_zwickau.oose.zuul.model.Player;
 /**
  * Implementation of the 'use' user command.
+ * @author Erlan Modlaliev and Salavat Islamov
  */
 public class UseCommand extends Command{
 	

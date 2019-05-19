@@ -19,7 +19,7 @@ import java.util.Map;
  *  rooms, creates the parser and starts the game.
  *
  * @author  Michael Kolling and David J. Barnes
- * @version 1.1 (December 2002)
+ * @extended_by Erlan Moldalie and Salavat Islamov
  */
 
 public class Game implements Serializable

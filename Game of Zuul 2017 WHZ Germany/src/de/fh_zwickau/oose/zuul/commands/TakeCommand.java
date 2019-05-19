@@ -4,6 +4,7 @@ import de.fh_zwickau.oose.zuul.model.Player;
 
 /**
  * Implementation of the 'take' user command.
+ * @author Erlan Modlaliev and Salavat Islamov
  */
 public class TakeCommand  extends Command{
 	

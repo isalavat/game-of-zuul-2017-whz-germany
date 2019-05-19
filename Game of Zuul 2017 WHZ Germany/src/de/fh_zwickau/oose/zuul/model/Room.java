@@ -22,7 +22,7 @@ import java.util.Optional;
  * stores a reference to the neighboring room.
  *
  * @author  Michael Kolling and David J. Barnes
- * @version 2008.03.30
+ * @extended_by Erlan Moldaliev and Salavat Islamov
  */
 
 public class Room  implements Serializable

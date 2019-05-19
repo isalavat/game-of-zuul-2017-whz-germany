@@ -14,7 +14,7 @@ import de.fh_zwickau.oose.zuul.containers.ItemContainer;
  * a current location.
  *
  * @author Michael Kolling
- * @version 1.0 (December 2002)
+ * @extended_by Erlan Moldaliev and Salavat Islamov
  */
 public class Player extends MovingEntity
 {
